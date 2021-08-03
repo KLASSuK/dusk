@@ -2,6 +2,8 @@
 
 ## [Unreleased](https://github.com/laravel/dusk/compare/v6.15.1...6.x)
 
+### Added
+- Support using all language symbols into `appendSlowly` method ([#ХХХ](https://github.com/laravel/dusk/pull/ХХХ))
 
 ## [v6.15.1 (2021-07-06)](https://github.com/laravel/dusk/compare/v6.15.0...v6.15.1)
 
